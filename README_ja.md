@@ -1,4 +1,4 @@
-> 🇬🇧 English version available → [README.md](./README_en.md)
+> 🇬🇧 English version available → [README.md](./README.md)
 
 # 🌐 AI Semantic Map（日本語＋ English Dual Generator）
 
