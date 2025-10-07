@@ -83,3 +83,15 @@ git clone https://github.com/<your-name>/ai-semantic-map-dual-lang.git
 cd ai-semantic-map-dual-lang
 pip install -r requirements.txt
 ```
+
+## 🧭 About（概要）
+
+**制作者:** 安崎 海星（Kaisei Yasuzaki）  
+**目的:**  
+AIが「意味」をどのように捉え、思考を構築しているのかを  
+日本語・英語の二言語で比較・可視化する試み。  
+哲学的・構造的観点からのAI認知解析を目的としています。
+
+**ライセンス:** MIT  
+**連絡先:** [GitHub Issues](https://github.com/yourname/ai-semantic-map-dual-lang/issues)
+
