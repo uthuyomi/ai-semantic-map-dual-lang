@@ -89,3 +89,14 @@ git clone https://github.com/<your-name>/ai-semantic-map-dual-lang.git
 cd ai-semantic-map-dual-lang
 pip install -r requirements.txt
 ```
+
+## 🧭 About
+
+**Author:** Kaisei Yasuzaki（安崎 海星）  
+**Project Purpose:**  
+To explore how AI perceives meaning and reasoning through dual-language semantic visualization.  
+This project aims to provide an analytical and philosophical perspective on AI cognition.
+
+**License:** MIT  
+**Contact:** [GitHub Issues](https://github.com/yourname/ai-semantic-map-dual-lang/issues)
+
